@@ -1,0 +1,15 @@
+What I’ve Learned
+
+Over the course of this exercise, I’ve strengthened my understanding of key Git and GitHub workflows. I learned how to:
+
+Create and switch to a new branch using git checkout -b, which is essential for isolating new features or updates without affecting the main codebase.
+
+Make changes in a separate branch and create new files such as goals.txt, demonstrating how to structure and manage different types of content within a project.
+
+Stage and commit changes using git add and git commit, including writing clear and descriptive commit messages like “Added goals list.”
+
+Push changes to a remote repository and open a pull request (PR) on GitHub to propose merging changes into the main branch.
+
+Write structured content like a list of personal and academic goals using clear formatting and appropriate headings.
+
+Through this process, I gained confidence in using Git for version control, managing branches, and collaborating effectively via GitHub—all of which are crucial skills for any software developer.

@@ -1,4 +1,4 @@
-What I’ve Learned
+What I have learned from this course
 
 Over the course of this exercise, I’ve strengthened my understanding of key Git and GitHub workflows. I learned how to:
 

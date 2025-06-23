@@ -1,0 +1,13 @@
+Brief Introduction About Myself
+
+My name is Jedidia Nkunzumwami, a passionate and dedicated software engineer with nearly 
+four years of experience in the tech industry. I have a strong foundation in full-stack 
+development, with a particular focus on frontend technologies such as React, TypeScript, 
+and Tailwind CSS. My technical journey began through intensive training at ALX, where 
+I specialized in backend development using Node.js, MongoDB, and MySQL, but later 
+transitioned to frontend development to meet the growing demands of the market.
+
+Beyond coding, I am driven by a desire to create solutions that make a real impact. 
+I have worked on various projects ranging from event platforms and disaster preparedness 
+apps to financial tools for businesses in Africa. My goal is to continuously grow as 
+a developer while contributing to meaningful, user-centered software that solves real-world problems.
